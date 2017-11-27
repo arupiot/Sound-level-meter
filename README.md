@@ -1,4 +1,5 @@
-## Sound-level-meter
+# Sound-level-meter 
+
 This piece of Python script measures sound level. The script depends on the **sd** ('sound device'), **numpy**, **CFFI** 
  and **Portaudio** libraries. 
  
