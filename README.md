@@ -2,7 +2,7 @@
 This piece of Python script measures sound level. The script depends on the **sd** ('sound device'), **numpy**, **CFFI** 
  and **Portaudio** libraries. 
  
- #Installation:#
+ # Installation:
  
  1. Make sure pip is installed and has all the necessesary tools: 
  
